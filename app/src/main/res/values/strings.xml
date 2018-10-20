@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">zeigeUhrzeit</string>
+    <string name="mainactivity">MainActivity</string>
+    <string name="Activity2">Activity2</string>
+    <string name="Activity1">ACtivity1</string>
+    <string name="gotoactivity1">goToActivity1</string>
+    <string name="showToast">showToast</string>
+    <string name="makeNotification">makeNotification</string>
+    <string name="activity_1">Activity 1</string>
+    <string name="gotoactivity2">goToActivity2</string>
+</resources>
